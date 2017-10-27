@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color:yellow}
+h1   {color:blue}
+p    {color:black}
+</style>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+
+<p>This is a paragraph.</p>
+body {background-color:lightgrey;font-family:courier}
+h1   {color:blue}
+p    {color:black}
+</style>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+
+<p>This is a paragraph.</p>
+<style>
+body {background-color:lightgrey}
+</style>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+
+<p>This is a paragraph.</p>
+<p>This is also paragraph.</p>
+<p>This is a third paragraph.</p>
+body {background-color:lightgrey}
+h1   {color:blue}
+p    {color:black;border:1px solid red}
+</style>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+
+<p>This is a paragraph.</p>
+<p>This is a paragraph.</p>
+<p>This is a paragraph.</p>
+<p>This is a paragraph.</p>
+<style>
+p#special {
+    background-color:black;
+    color:white;
+}
+</style>
+</head>
+<body>
+
+<h1>This is a heading</h1>
+
+<p>This is a paragraph.</p>
+<p>This is also paragraph.</p>
+<p id="special">I want to be a special paragraph!</p>
+<style>
+p.intro {
+    background-color:black;
+    color:white;
+    border:1px solid grey;
+    padding:10px;
+    margin:30px;
+    font-size:150%;
+}
+</style>
+<a href="https://legend97.github.io">Link to my github</a>
+</body>
+</html>
