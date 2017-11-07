@@ -189,7 +189,7 @@
     <h2 id="A11">Images</h2>
     <p>People use images to make their website look more appealing.</p>
     <h3>Examples</h3>
-    <p>Below is an image of a star linked by the following line of code:<br>
+    <p>Below is an image of a meme linked by the following line of code:<br>
     &lt;img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Starsinthesky.jpg"&gt;</p>
     <img src="https://quizizz.zendesk.com/hc/article_attachments/115002501069/1024x1024.jpg" alt="MEME" style="width:200px;height:200px;border:0px;
     ">
