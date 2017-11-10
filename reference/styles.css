@@ -1,0 +1,21 @@
+.class1 {
+  font-family:Times New Roman;
+  font-size: 21px;
+  color:white;
+  background-color: green;
+}
+
+.class2 {
+  font-family: Times New Roman;
+  color:green;
+}
+
+.class {
+  color:green;
+  font-family:Comic Sans MS;
+}
+
+h2, h3, h4, h5, h6, h7, h8, h9, h10, h11, h12, h13, h14  {
+  color:green;
+}
+
