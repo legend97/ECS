@@ -1,7 +1,8 @@
 .class1 {
-  color: green;
+  font-family:Times New Roman;
   font-size: 21px;
   color:white;
+  background-color: green;
 }
 
 .class2 {
@@ -18,4 +19,6 @@ h2, h3, h4, h5, h6, h7, h8, h9, h10, h11, h12, h13, h14  {
   color:green;
 }
 
-
+table, th, td {
+    border: 1px solid black;
+}
