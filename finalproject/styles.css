@@ -1,10 +1,10 @@
-c.content {
-  background-color:#0070FF;
+.background {
+  background-color:#0004FB;
 }
 
 .content p {
   font-family:"Times New Roman", sans-serif;
-  color:White;
+  color:yellow;
 }
 
 img {
@@ -32,9 +32,4 @@ img {
 
 .imageprofile {
   height: 100px;
-}
-
-.imageshop {
-  width: 40%
-  height: 40%;
 }
