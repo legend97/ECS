@@ -4,7 +4,7 @@
 
 <head>
 
-<title>Static</title>
+<title>Responsive</title>
 
 <meta charset="utf-8">
 
@@ -13,12 +13,8 @@
 </head>
 
   <body>
-
-    <p>This is a static page</p>
-
-    <p>This picture is high quality</p>
-
-    <p>This picture is 4000 pixels wide, may have accidentaly zoomed it in</p>
+  
+  <p>This is the responsive page</p>
 
     <img src="https://mpwteach.github.io/images/sunset2-jpg-maxq.jpg">
 
