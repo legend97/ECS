@@ -8,7 +8,7 @@
   <body>
     <p>This is a static page</p>
     <p>This picture is high quality</p>
-    <p>This picture is 4000 pixels wide, may have accidentaly zoomed it in</p>
+    <p>This picture is 5700 pixels wide, may have accidentaly zoomed it in</p>
     <img src="https://mpwteach.github.io/images/sunset2-jpg-maxq.jpg">
   </body>
 </html>
