@@ -7,10 +7,10 @@
   </head>
   <body>
        <div>
-     <img src='/CSS/Untitled.jpg'
-        srcset='/CSS/Untitled1.jpg,
-                /CSS/Untitled2.jpg,
-                /CSS/Untitled.jpg,>
+     <img src='/CSS/Untitled-jpg-hq-5700.jpg 5700w'
+        srcset='/CSS/Untitled-jpg-hq-4000.jpg 4000w,
+                /CSS/Untitled-jpg-hq-2500.jpg 2500w,
+                /CSS/Untitled-jpg-hq-1000.jpg 1000w,>
    </div>
   </body>
 </html>
