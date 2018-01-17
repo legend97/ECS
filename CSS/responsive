@@ -16,7 +16,9 @@
   
   <p>This is the responsive page</p>
 
-    <img src="https://mpwteach.github.io/images/sunset2-jpg-maxq.jpg">
+         <img src='/CSS/sunset2-jpg-maxq.jpg'
+        srcset='/CSS/sunset2-jpg-maxq.jpg 5700w,
+                /images/ismall-1000.jpg 1000w'>
 
   </body>
 
