@@ -18,9 +18,9 @@
    <div>
      <img src='/CSS/Untitled.jpg'
         srcset='/CSS/Untitle Large.jpg 5700w,
-                /images/Untitled.jpg 3500w,
-                /images/Untitled Small.jpg 2000w,
-                /images/Untitled Very Small.jpg 1000w'>
+                /CSS/Untitled.jpg 3500w,
+                /CSS/Untitled Small.jpg 2000w,
+                /CSS/Untitled Very Small.jpg 1000w'>
    </div>
 
   </body>
